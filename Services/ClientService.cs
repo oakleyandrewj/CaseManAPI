@@ -10,8 +10,8 @@ public static class ClientService
     {
         Clients = new List<Client>
         {
-            new Client {Id = 1, Name = "Classic Italian", IsClientIDChecked = false},
-            new Client {Id = 2, Name = "Veggie", IsClientIDChecked = true}
+            new Client {Id = 1, Name = "Mr John Smith", IsClientIDChecked = false},
+            new Client {Id = 2, Name = "Ms Jane Doe", IsClientIDChecked = true}
         };
     }
 
